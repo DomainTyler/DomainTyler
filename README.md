@@ -89,7 +89,7 @@
 
 <blockquote>
   <p align="center" style="font-style: italic; font-size: 1.1em;">
-    “Code is like humor. When you have to explain it, it’s bad.”<br/>
+    “i hope you like my work more to come soon if helped i credit the people helping.”<br/>
     <strong>– Cory House</strong>
   </p>
 </blockquote>
