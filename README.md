@@ -12,16 +12,40 @@
 </div>
 
 ---
+## ⚡ My Daily Essentials
+
+- ☕ Coffee The magic potion that turns ideas into code
+- 💻 Dual monitors
+- 🧑‍💻 Keyboard with clicky switches 
+- 📚 A never-ending stack of tabs with tutorials and docs
+- 💡 Random bursts of inspiration, usually right before sleep 
+- ⚙️ Always tweaking my setup to optimize workflow and comfort
+---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
+  <!-- Current Skills -->
+  <strong>Current:</strong><br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img alt="Batch" src="https://img.shields.io/badge/Batch-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <strong>Currently Learning:</strong><br/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+<p align="center">
+<strong>Not adding more i want To keep the symmetry LOL</strong><br/>
+  
 ---
 
 ## 🚀 Featured Projects
@@ -90,6 +114,6 @@
 <blockquote>
   <p align="center" style="font-style: italic; font-size: 1.1em;">
     “i hope you like my work more to come soon if helped i credit the people helping.”<br/>
-    <strong>– Cory House</strong>
+    <strong>- DomainTyler -</strong>
   </p>
 </blockquote>
