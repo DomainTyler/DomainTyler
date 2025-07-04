@@ -3,7 +3,7 @@
   <a href="https://github.com/DomainTyler">
     <img src="https://avatars.githubusercontent.com/DomainTyler" width="120" height="120" style="border-radius:50%" alt="Tyler's GitHub Avatar" />
   </a>
-  <p>Developer building Windows utilities & system automation tools to simplify your PC life.</p>
+  <p>Developer Crafting smart Windows utilities and automation to supercharge your PC experience..</p>
   <p>
     <a href="https://github.com/DomainTyler">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/DomainTyler?style=social" />
