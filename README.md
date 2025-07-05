@@ -1,15 +1,28 @@
-<div align="center">
-  <h1>Hi, I'm Tyler! 👋</h1>
-  <a href="https://github.com/DomainTyler">
-    <img src="https://avatars.githubusercontent.com/DomainTyler" width="120" height="120" style="border-radius:50%" alt="Tyler's GitHub Avatar" />
+<p align="center">
+  <img src="https://github.com/DomainTyler/DomainTyler/blob/main/banner.png?raw=true" alt="Tyler's GitHub Banner" width="100%" />
+
+<p align="center">
+  🚀 Developer crafting smart Windows utilities & automation to <strong>supercharge</strong> your PC experience.
+</p>
+<p align="center">
   </a>
-  <p>Developer Crafting smart Windows utilities and automation to supercharge your PC experience..</p>
-  <p>
-    <a href="https://github.com/DomainTyler">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/DomainTyler?style=social" />
-    </a>
-  </p>
-</div>
+  &nbsp;&nbsp;
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DomainTyler&label=Visitors&color=0e75b6&style=flat" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## ⚡ My Daily Essentials
@@ -59,6 +72,20 @@
     <td align="center" valign="top" width="250" style="border-radius: 10px; border: 1px solid #eee; background: #f9f9f9;">
       <h3><a href="https://github.com/DomainTyler/chronosorter" target="_blank">⏳ ChronoSorter</a></h3>
       <p>A tool to organize and sort your files effortlessly based on timestamps and metadata.</p>
+    </td>
+    <td align="center" valign="top" width="250" style="border-radius: 10px; border: 1px solid #eee; background: #f9f9f9;">
+      <h3><a href="https://github.com/DomainTyler/Clixall" target="_blank">🖱️ Clixall</a></h3>
+      <p>A unified launcher for links, files, folders, and commands — designed for speed and simplicity.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="250" style="border-radius: 10px; border: 1px solid #eee; background: #f9f9f9;">
+      <h3><a href="https://github.com/DomainTyler/find-unusual-exes-by-DomainTyler" target="_blank">🔍 Find Unusual EXEs</a></h3>
+      <p>Scans directories to detect potentially suspicious executable files by size, location, or naming.</p>
+    </td>
+    <td align="center" valign="top" width="250" style="border-radius: 10px; border: 1px solid #eee; background: #f9f9f9;">
+      <h3><a href="https://github.com/DomainTyler/USB-Lockdown-by-DomainTyler" target="_blank">🔐 USB Lockdown</a></h3>
+      <p>Locks down USB ports by disabling devices through registry tweaks and system policies.</p>
     </td>
   </tr>
 </table>
