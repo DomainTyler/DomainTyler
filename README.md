@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
   </a>
 
-  <a href="https://youtube.com/DomainTyler" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+  <a href="https://www.youtube.com/@DomainTyler" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
   </a>
 
