@@ -1,16 +1,36 @@
- <p align="center">
+<p align="center">
   <img src="https://github.com/DomainTyler/DomainTyler/blob/main/banner.png?raw=true" alt="Tyler's GitHub Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm <strong>DomainTyler</strong> 👋</h1>
 
 <p align="center">
-  <strong>🚀 Developer crafting smart Windows utilities & automation to supercharge your PC experience.</strong>
+  🚀 Developer crafting smart Windows utilities & automation to supercharge your PC experience.
+  <br>
+  ⚙️ Scripting enthusiast | 🧠 Always learning | 💻 Optimization nerd
 </p>
 
 <p align="center">
+  <a href="https://github.com/DomainTyler">
+    <img src="https://img.shields.io/github/followers/DomainTyler?label=Follow&style=social" alt="GitHub followers">
   </a>
   &nbsp;&nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DomainTyler&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DomainTyler&label=Visitors&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
+<p align="center">
+  <a href="mailto:DomainTyler@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/DomainTyler">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@DomainTyler">
+    <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+---
 ---
 ## ⚡ My Daily Essentials
 
