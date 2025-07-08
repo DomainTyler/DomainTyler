@@ -2,27 +2,14 @@
   <img src="https://github.com/DomainTyler/DomainTyler/blob/main/banner.png?raw=true" alt="Tyler's GitHub Banner" width="100%" />
 
 <p align="center">
-  🚀 Developer crafting smart Windows utilities & automation to <strong>supercharge</strong> your PC experience.
+  <strong>🚀 Developer crafting smart Windows utilities & automation to supercharge your PC experience.</strong>
 </p>
+
 <p align="center">
   </a>
   &nbsp;&nbsp;
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DomainTyler&label=Visitors&color=0e75b6&style=flat" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 ## ⚡ My Daily Essentials
@@ -90,27 +77,56 @@
   </tr>
 </table>
 
-----
+<p align="center">
+  <img src="https://img.shields.io/badge/Quick_Tools_Launcher-Stable-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChronoSorter-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clixall-Beta-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Find_Unusual_EXEs-Maintained-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/USB_Lockdown-Archived-lightgrey?style=for-the-badge" />
+</p>
 
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e003c,50:3b0a73,100:c300ff&height=160&section=header&text=💻%20Optimizing%20Windows%20One%20Script%20at%20a%20Time&fontSize=26&fontColor=ffffff&animation=fadeIn&desc=Automation%20is%20Art%20in%20Motion.&descSize=16&descColor=eeeeee" />
+</p>
+
+---
 ## 📫 Connect with me
 
-<p align="center">
-  <a href="https://github.com/DomainTyler" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center" style="font-size: 0;">
+
+  <a href="https://github.com/DomainTyler" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
   </a>
-  <!-- Add your socials below by replacing the '#' -->
-  <!-- Example:
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="mailto:DomainTyler@outlook.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
-  -->
+
+  <a href="https://twitter.com/YourTwitter" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40" />
+  </a>
+
+  <a href="https://facebook.com/YourFacebook" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" />
+  </a>
+
+  <a href="https://instagram.com/YourInstagram" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
+  </a>
+
+  <a href="https://youtube.com/YourYouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="40" />
+  </a>
+
 </p>
 
 ---
 
-<blockquote>
-  <p align="center" style="font-style: italic; font-size: 1.1em;">
-    “i hope you like my work more to come soon if helped i credit the people helping.”<br/>
-    <strong>- DomainTyler -</strong>
-  </p>
-</blockquote>
+
+<p align="center" style="background:#1e003c; padding:20px; border-radius:12px; color:#eee; font-style: italic; font-size:1.1em; max-width:700px; margin:40px auto;">
+  “I hope you like my work — more to come soon.<br/>
+  If helped, I credit the people helping.”
+  <br/><br/>
+  <strong>- DomainTyler -</strong>
+</p>
