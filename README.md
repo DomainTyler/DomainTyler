@@ -12,7 +12,7 @@
 </p>
 
 ---
-## ⚡ My Daily Essentials
+## ⚡ My Daily Essentials 
 
 - ☕ Coffee The magic potion that turns ideas into code
 - 💻 Dual monitors
