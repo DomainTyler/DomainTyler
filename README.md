@@ -78,11 +78,11 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quick_Tools_Launcher-Stable-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChronoSorter-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quick_Tools_Launcher-Stable & Maintained-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChronoSorter-Stable & Maintained-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clixall-Beta-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Find_Unusual_EXEs-Maintained-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/USB_Lockdown-Archived-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Find_Unusual_EXEs-Stable & Maintained-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/USB_Lockdown-Stable-brightgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -101,14 +101,6 @@
 
   <a href="mailto:DomainTyler@outlook.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
-  </a>
-
-  <a href="https://x.com/DomainTyler" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40" />
-  </a>
-
-  <a href="https://facebook.com/YourFacebook" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" />
   </a>
 
   <a href="https://instagram.com/DomainTyler" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-block;">
